@@ -13,7 +13,11 @@ header = {
     'authorization': 'account authorization code here'
 }
 
+i = 0
 while True:
     r = requests.post('https://discord.com/api/v8/channels/754439239625605280/messages',data= payload,headers=header)
     r = requests.post('https://discord.com/api/v8/channels/750571361646280708/messages',data= payload,headers=header)
     time.sleep(300)
+    if i == 20:
+        break
+    i += 1 
