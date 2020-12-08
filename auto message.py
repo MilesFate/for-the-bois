@@ -10,7 +10,7 @@ payload = {
 }
 
 header = {
-    'authorization': 'NTM4NzMxMDc2MjM1ODIxMDYx.X87bng.iafdz2QqwtjPNo-EKoFlD1En0hU'
+    'authorization': 'account authorization code here'
 }
 
 while True:
