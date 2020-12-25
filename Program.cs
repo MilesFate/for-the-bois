@@ -1,5 +1,5 @@
 //I Have always wanted to make something like this but I never got around to do it in python
-//so i just ended up doing it in c# because i thought it would be a good idea for learning how if statements work in c#
+//so I just ended up doing it in c# because I thought it would be a good idea for learning how if statements work in c#
 using System;
 
 namespace Extention
