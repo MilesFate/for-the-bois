@@ -19,16 +19,16 @@ def start():
 
 def compound_interest():
   Principle =float(input("Enter Principle Amount: "))
-  Rate_of_Interest = float(input("Enter rate of Interest: "))
-  Time = float(input("Enter No of Years= "))
+  Rate_of_Interest = float(input("Enter Rate of Interest: "))
+  Time = float(input("Enter Number of Years= "))
   Output = Principle * ( 1 +  Rate_of_Interest / 100)**Time
   Output = str(round(Output, 2))
   print(Output)
 
 def simple_interest():
   Principle =float(input("Enter Principle Amount: "))
-  Rate_of_Interest = float(input("Enter rate of Interest: "))
-  Time = float(input("Enter No of Years= "))
+  Rate_of_Interest = float(input("Enter Rate of Interest: "))
+  Time = float(input("Enter Number of Years= "))
   Output = Principle*Rate_of_Interest *Time
   Output = str(round(Output, 2))
   print(Output)
