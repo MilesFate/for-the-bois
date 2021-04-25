@@ -235,6 +235,7 @@ def Golden_Guardians():
 
 def start():
     print('Hello Welcome to my program, I hope you enjoy it! ^_^')
+    print("Coded by Luisalberto Castaneda, 4/23/2021")
     print('------------------------------------------------------')
     sleep()
     print("Choose an LCS team who's roaster you wish to see")
