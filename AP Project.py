@@ -1,3 +1,7 @@
+# All of this code was written by me for my ap project
+# The only reason its even on github is to make pear review easier
+# That being said once pear review is over i will remove this until after the submission time is over
+
 # time is used to make the program wait
 # i will mainly use this to give the user time to read
 # importing os makes the screen clutter cut down
